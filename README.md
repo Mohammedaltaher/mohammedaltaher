@@ -1,16 +1,42 @@
-## Hi there 👋
+# Mohammed Altaher
 
-<!--
-**Mohammedaltaher/mohammedaltaher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | Lifelong Learner | Open Source Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+Hi! I'm Mohammed Altaher, a passionate developer who loves building impactful software and collaborating with the tech community. I enjoy learning new technologies, solving problems, and sharing knowledge.
+
+- 🎓 Background: Computer Science graduate
+- 🌍 Interests: Web development, open source, AI, and automation
+- ⚡ Fun fact: I love hiking and exploring new places!
+
+---
+
+## 🛠️ Skills & Technologies
+- **Languages:** JavaScript, Python, C#
+- **Frameworks:** React, Node.js, .NET
+- **Tools:** Git, Docker, VS Code
+- **Expertise:** Full-stack development, REST APIs, automation
+
+---
+
+## 🚀 Current Projects & Goals
+- Building modern web applications
+- Contributing to open source projects
+- Learning about cloud computing and DevOps
+
+---
+
+## 📫 Contact & Links
+- Email: mohammed.altaher@email.com
+- [LinkedIn](https://www.linkedin.com/in/mohammedaltaher)
+- [Portfolio](https://your-portfolio-link.com)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaltaher&show_icons=true&theme=radical)
+
+---
+
+> 💬 *Let's connect and build something amazing together! Feel free to reach out or collaborate on projects.*
