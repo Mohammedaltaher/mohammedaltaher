@@ -1,42 +1,49 @@
-# Mohammed Altaher
+# 👋 Hi, I'm Mohammed! 
 
-**👨‍💻 Software Developer | 🚀 Lifelong Learner | 🌍 Open Source Adventurer**
-
----
-
-## 👋 Hey there!
-I'm Mohammed Altaher, a code wrangler who loves turning coffee into code and ideas into reality! I thrive on building cool stuff, learning new tricks, and geeking out with fellow techies.
-
-- 🎓 **Background:** Computer Science grad (a.k.a. professional bug fixer)
-- 🌐 **Interests:** Web wizardry, open source magic, AI experiments, and automating the boring bits
-- 🥾 **Fun fact:** If I'm not coding, I'm probably hiking up a mountain or lost in a new city!
+**💻 Code Maker | 🚀 Problem Solver | 🌮 Taco Enthusiast**
 
 ---
 
-## 🛠️ My Toolbox
-- **Languages:** JavaScript 🟨 | Python 🐍 | C# ⚙️
-- **Frameworks:** React ⚛️ | Node.js 🌳 | .NET 🏗️
-- **Tools:** Git 🧑‍💻 | Docker 🐳 | VS Code 📝
-- **Superpowers:** Full-stack sorcery, REST API conjuring, automation spells
+## Who Am I?
+```
+if (coffee > 0) {
+  return "Awesome Developer";
+} else {
+  return "Coffee Loading...";
+}
+```
+
+- 🎮 By day: I make computers do cool things
+- 🏔️ By weekend: Mountain explorer & city wanderer
+- 🤖 Always: Turning wild ideas into working code!
 
 ---
 
-## 🚀 What I'm Up To
-- Crafting modern web wonders
-- Powering up open source
-- Leveling up in cloud & DevOps
+## My Favorite Toys
+- 💛 JavaScript: Because semicolons are optional (fight me)
+- 🐍 Python: When I'm feeling lazy but smart
+- ⚙️ C#: For when I'm in a professional relationship with my code
 
 ---
 
-## 📫 Let's Connect!
-- 📧 Email: mohammed.altaher@email.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammedaltaher)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+## Current Side Quests
+- 🧙‍♂️ Casting spells in React
+- 🏗️ Building a digital fortress in the cloud
+- 🔮 Teaching robots to understand memes
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammedaltaher&show_icons=true&theme=radical)
+## Talk Nerdy To Me
+- 📧 Send ravens to: mohammed.altaher@email.com
+- 💼 Professional bragging: [LinkedIn](https://www.linkedin.com/in/mohammedaltaher)
+- 🌐 My digital playground: [Portfolio](https://your-portfolio-link.com)
 
 ---
 
-> 💬 *Let's team up and build something epic! Drop me a message or ping me for a collab—I'm always up for a new adventure.*
+![My Coding Stats (aka proof I don't sleep)](https://github-readme-stats.vercel.app/api?username=mohammedaltaher&show_icons=true&theme=radical)
+
+---
+
+> "If at first you don't succeed; call it version 1.0" 😎 
+>
+> Let's build something ridiculous that just might change the world!
