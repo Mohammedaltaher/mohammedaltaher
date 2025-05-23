@@ -33,7 +33,7 @@ if (coffee > 0) {
 
 ---
 
-## Talk Nerdy To Me
+## Talk  To Me
 - 📧 Send ravens to: mohammed.altaher@email.com
 - 💼 Professional bragging: [LinkedIn](https://www.linkedin.com/in/mohammedaltaher)
 - 🌐 My digital playground: [Portfolio](https://your-portfolio-link.com)
